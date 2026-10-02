@@ -1,0 +1,22 @@
+/* NearBlack — libadwaita overrides (pairs with ~/.themes/NearBlack shell theme) */
+:root {
+  --window-bg-color: #0a0a0b;
+  --window-fg-color: #ffffff;
+  --view-bg-color: #0a0a0b;
+  --view-fg-color: #ffffff;
+  --headerbar-bg-color: #000000;
+  --headerbar-backdrop-color: #000000;
+  --headerbar-fg-color: #ffffff;
+  --headerbar-shade-color: rgba(0, 0, 0, 0.9);
+  --sidebar-bg-color: #111113;
+  --sidebar-backdrop-color: #111113;
+  --sidebar-fg-color: #ffffff;
+  --sidebar-shade-color: rgba(0, 0, 0, 0.9);
+  --secondary-sidebar-bg-color: #0e0e10;
+  --secondary-sidebar-backdrop-color: #0e0e10;
+  --card-bg-color: rgba(255, 255, 255, 0.05);
+  --dialog-bg-color: #131315;
+  --popover-bg-color: #131315;
+  --thumbnail-bg-color: #131315;
+  --overview-bg-color: #000000;
+}
